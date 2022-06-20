@@ -86,3 +86,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [42] Introducing Solidity to sCrypt Transpiler. Run Ethereum Smart Contracts on Bitcoin. https://xiaohuiliu.medium.com/introducing-solidity-to-scrypt-transpiler-a0a6907bb3ef
 
 [43] bitaddress. Oline Bitcoin Address Gernerator. https://www.bitaddress.org/
+
+[44] Gorilla Pool LinkTree. https://linktr.ee/gorillapool
