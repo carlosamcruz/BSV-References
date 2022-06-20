@@ -88,3 +88,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [43] bitaddress. Oline Bitcoin Address Gernerator. https://www.bitaddress.org/
 
 [44] Gorilla Pool LinkTree. https://linktr.ee/gorillapool
+
+[45] AnonSurvey Demo. https://youtu.be/ycngr0KdWgM
