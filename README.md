@@ -90,3 +90,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [44] Gorilla Pool LinkTree. https://linktr.ee/gorillapool
 
 [45] AnonSurvey Demo. https://youtu.be/ycngr0KdWgM
+
+[46] Stateful Smart Contracts on Bitcoin SV. https://medium.com/coinmonks/stateful-smart-contracts-on-bitcoin-sv-c24f83a0f783
