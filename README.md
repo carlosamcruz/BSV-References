@@ -94,3 +94,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [46] Stateful Smart Contracts on Bitcoin SV. https://medium.com/coinmonks/stateful-smart-contracts-on-bitcoin-sv-c24f83a0f783
 
 [47] Bitcoin.org - Bitcoin v0.1 Alpha Release. https://web.archive.org/web/20090131115053/http://bitcoin.org/
+
+[48] Solving Double Spending...https://www.linkedin.com/pulse/solving-double-spending-craig-s-wright/?trackingId=mxjEcTmJe3zUC%2FbeltHn9Q%3D%3D
