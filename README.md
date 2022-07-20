@@ -98,3 +98,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [48] Solving Double Spending...https://www.linkedin.com/pulse/solving-double-spending-craig-s-wright/?trackingId=mxjEcTmJe3zUC%2FbeltHn9Q%3D%3D
 
 [49] Protocol Basics - Script Hashes. https://electrumx.readthedocs.io/en/latest/protocol-basics.html#script-hashes
+
+[50] Tokenized's Channels. https://github.com/tokenized/channels
