@@ -100,3 +100,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [49] Protocol Basics - Script Hashes. https://electrumx.readthedocs.io/en/latest/protocol-basics.html#script-hashes
 
 [50] Tokenized's Channels. https://github.com/tokenized/channels
+
+[51] BSV Token Protocols. https://bitcoinsv.com/token/
