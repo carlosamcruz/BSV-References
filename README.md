@@ -102,3 +102,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [50] Tokenized's Channels. https://github.com/tokenized/channels
 
 [51] BSV Token Protocols. https://bitcoinsv.com/token/
+
+[52] Bitcoin as Turing complete system for building smart contracts & tokens. https://bitcoinsv.com/bitcoin-as-turing-complete-system-for-building-smart-contracts-tokens/?utm_campaign=WAD%20World%20Congress&utm_content=215084933&utm_medium=social&utm_source=twitter&hss_channel=tw-1074694505532715008
