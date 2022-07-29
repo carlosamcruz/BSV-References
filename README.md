@@ -104,3 +104,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [51] BSV Token Protocols. https://bitcoinsv.com/token/
 
 [52] Bitcoin as Turing complete system for building smart contracts & tokens. https://bitcoinsv.com/bitcoin-as-turing-complete-system-for-building-smart-contracts-tokens/?utm_campaign=WAD%20World%20Congress&utm_content=215084933&utm_medium=social&utm_source=twitter&hss_channel=tw-1074694505532715008
+
+[53] Claim abandon fails - 64: non-mandatory-script-verify-flag (Data push larger than necessary) #242. https://github.com/lbryio/lbrycrd/issues/242
