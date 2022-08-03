@@ -108,3 +108,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [53] Claim abandon fails - 64: non-mandatory-script-verify-flag (Data push larger than necessary) #242. https://github.com/lbryio/lbrycrd/issues/242
 
 [54] P2SH - Pay To Script Hash. https://learnmeabitcoin.com/technical/p2sh
+
+[55] Pay to script hash (P2SH). https://wiki.bitcoinsv.io/index.php/P2SH
