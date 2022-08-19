@@ -110,3 +110,7 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [54] P2SH - Pay To Script Hash. https://learnmeabitcoin.com/technical/p2sh
 
 [55] Pay to script hash (P2SH). https://wiki.bitcoinsv.io/index.php/P2SH
+
+[56] Scalable Peer to Peer Tokens on Bitcoin. https://xiaohuiliu.medium.com/scalable-peer-to-peer-tokens-on-bitcoin-3fb2b2c4da25
+
+[57] Solving Back-to-Genesis Using a Transaction Chain Proof. https://nchain.com/solving-back-to-genesis-using-a-transaction-chain-proof/
