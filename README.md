@@ -114,3 +114,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [56] Scalable Peer to Peer Tokens on Bitcoin. https://xiaohuiliu.medium.com/scalable-peer-to-peer-tokens-on-bitcoin-3fb2b2c4da25
 
 [57] Solving Back-to-Genesis Using a Transaction Chain Proof. https://nchain.com/solving-back-to-genesis-using-a-transaction-chain-proof/
+
+[58] nChain - The Metanet Technical summary - A Blockchain-based Internet. https://www.bitcoinsv.io/files/metanet.pdf
