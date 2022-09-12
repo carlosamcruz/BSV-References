@@ -116,3 +116,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [57] Solving Back-to-Genesis Using a Transaction Chain Proof. https://nchain.com/solving-back-to-genesis-using-a-transaction-chain-proof/
 
 [58] nChain - The Metanet Technical summary - A Blockchain-based Internet. https://www.bitcoinsv.io/files/metanet.pdf
+
+[59] Bitcoin’s UTXO Set Explained. https://www.mycryptopedia.com/bitcoin-utxo-unspent-transaction-output-set-explained/#:~:text=The%20function%20of%20the%20UTXO,resulting%20in%20the%20set%20shrinking.
