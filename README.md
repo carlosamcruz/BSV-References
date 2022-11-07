@@ -120,3 +120,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [59] Bitcoin’s UTXO Set Explained. https://www.mycryptopedia.com/bitcoin-utxo-unspent-transaction-output-set-explained/#:~:text=The%20function%20of%20the%20UTXO,resulting%20in%20the%20set%20shrinking.
 
 [60] Jean-Paul Sartre, signing and significance. https://craigwright.net/blog/math/jean-paul-sartre-signing-and-significance/
+
+[61] Vitalik Buterin on OP_RETURN. https://twitter.com/vitalikbuterin/status/929808394487320577
