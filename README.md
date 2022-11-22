@@ -122,3 +122,5 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [60] Jean-Paul Sartre, signing and significance. https://craigwright.net/blog/math/jean-paul-sartre-signing-and-significance/
 
 [61] Vitalik Buterin on OP_RETURN. https://twitter.com/vitalikbuterin/status/929808394487320577
+
+[62] DXS app recovers from over 7,500 BSV exploit. https://coingeek.com/dxs-app-recovers-from-over-7500-bsv-exploit/
