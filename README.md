@@ -124,3 +124,6 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [61] Vitalik Buterin on OP_RETURN. https://twitter.com/vitalikbuterin/status/929808394487320577
 
 [62] DXS app recovers from over 7,500 BSV exploit. https://coingeek.com/dxs-app-recovers-from-over-7500-bsv-exploit/
+
+[63] Bitcoin vs Ethereum Smart Contracts. https://xiaohuiliu.medium.com/bitcoin-vs-ethereum-smart-contracts-921e0a12b043
+ 
