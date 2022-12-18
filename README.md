@@ -128,4 +128,6 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [63] Bitcoin vs Ethereum Smart Contracts. https://xiaohuiliu.medium.com/bitcoin-vs-ethereum-smart-contracts-921e0a12b043
 
 [64] Bitails mAPI Main-net Swagger: https://mapi.bitails.net/swagger
+
+[65] STOTINA. https://stotina.com/#/tools
  
