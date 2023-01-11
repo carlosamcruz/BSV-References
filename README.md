@@ -130,4 +130,6 @@ Neste repositório eu compartilho as principais referências de conteúdo técni
 [64] Bitails mAPI Main-net Swagger: https://mapi.bitails.net/swagger
 
 [65] STOTINA. https://stotina.com/#/tools
+
+[66] UTXO vs. Account-Based Chains. https://academy.glassnode.com/concepts/utxo
  
