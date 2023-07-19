@@ -1,7 +1,7 @@
 # Bitcoin-References
 Neste repositório eu compartilho as principais referências de conteúdo técnico da rede BSV usadas nos meus projetos.
 
-[1] C. S. Wright (Satoshi Nakamoto). Bitcoin: A Peer-to-Peer Electronic Cash System. 2008. - https://www.bitcoinsv.io/bitcoin.pdf
+[1] Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System. 2008. - https://www.bitcoinsv.io/bitcoin.pdf
 
 [2] Two Hope Ventures.Transaction Spec for Bitcoin. Layout: Specification, Date: 2017-08-26, Activation: 1515888000, Version: 1.0. https://twohop.ventures/wp-content/uploads/2019/12/BSVSpec-Transactions-V1.0.pdf
 
