@@ -1,5 +1,5 @@
 # Bitcoin-References
-Neste repositório eu compartilho as principais referências de conteúdo técnico da rede BSV usadas nos meus projetos.
+Neste repositório eu compartilho as principais referências de conteúdo técnico da rede Bitcoin usadas nos meus projetos.
 
 [1] Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System. 2008. - https://www.bitcoinsv.io/bitcoin.pdf
 
